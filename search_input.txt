@@ -1,0 +1,6 @@
+{
+  "multi_match": {
+      "query": "MILLER",
+      "fields": ["PLAN_NAME", "SPONSOR_DFE_NAME", "SPONS_DFE_LOC_US_STATE"]
+  }
+}
